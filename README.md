@@ -1,2 +1,2 @@
 # hello-world
-some ideals
+it's a start.
